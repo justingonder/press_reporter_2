@@ -1,0 +1,5 @@
+{
+  "name": "Janeway Press Reporting Plugin",
+  "description": "A reporting dashboard for Janeway press managers to monitor editor assignment delays and peer review follow-up latency across multiple journals.",
+  "requestFramePermissions": []
+}
